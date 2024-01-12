@@ -1,0 +1,5 @@
+name	email_add	phone_number	tenant	owner
+asad	a@b.c	12345	FALSE	TRUE
+bob	d@e.f	6789	TRUE	FALSE
+
+
